@@ -3,7 +3,7 @@ import { useQuery } from "react-query";
 import { Character } from "./Character";
 
 export const Characters = () => {
-  const [page, setPage] = useState(2);
+  const [page, setPage] = useState(1);
   const fetchCharacters = async ({ queryKey }) => {
     const res = await fetch(
       `https://rickandmortyapi.com/api/character?page=${queryKey[1]}`
