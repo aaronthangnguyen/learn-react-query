@@ -1,9 +1,10 @@
-# LEARN REACT QUERY - RICK AND MORTY API
+# LEARN REACT QUERY
+
+<img width="990" alt="Screen Shot 2022-01-12 at 12 46 32 PM" src="https://user-images.githubusercontent.com/37777232/149194020-50f7d257-43bd-4d18-87f6-f0c069ed2898.png">
 
 ## Technologies
-
+- [The Rick and Morty API](https://rickandmortyapi.com/)
 - [React.js](https://reactjs.org/)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Installation
@@ -14,7 +15,6 @@ cd learn-react-query
 ```
 
 ```bash
-# pnpm required, check out https://pnpm.io/installation
 npx pnpm i
 npx pnpm dev
 ```
